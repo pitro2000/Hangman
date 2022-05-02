@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">hangman_Piotr_Krasnowski</string>
+    <string name="check_letter">SPRAWDŹ LITERĘ</string>
+    <string name="check_word">SPRAWDŹ SŁOWO</string>
+    <string name="letter">litera</string>
+    <string name="first">do 3 liter</string>
+    <string name="second">pomiędzy 4 a 6 liter</string>
+    <string name="third">powyżej 6 liter</string>
+    <string name="your_mystery_word">Słowo do odgadnięcia</string>
+    <string name="choose_your_language">Wybierz swój język</string>
+    <string name="apply">Zastosuj</string>
+    <string name="title">Zmień język</string>
+    <string name="lost">Przegrałeś! Spróbuj ponownie</string>
+    <string name="won">Wygrałeś! Gratulacje!</string>
+    <string-array name="words">
+    <item>tak</item>
+    <item>lalka</item>
+    <item>alan</item>
+        <item>gwiazdka</item>
+        <item>balkon</item>
+        <item>tapczan</item>
+        <item>oki</item>
+        <item>oskar</item>
+        <item>rewolwer</item>
+        <item>niespodzianka</item>
+        <item>ola</item>
+    </string-array>
+</resources>
